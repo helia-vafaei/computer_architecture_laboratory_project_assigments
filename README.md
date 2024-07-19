@@ -1,0 +1,2 @@
+# computer_architecture_laboratory_project_assigments
+Several significant homework assignments from my computer architecture laboratory course
